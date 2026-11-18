@@ -1,0 +1,9 @@
+Struktur data adalah
+-> cara menyimpan dan mengorganisir data dalam sebuah program
+-> jika sebelumnya kita sudah pernah belajar menyimpan satu data dalam sebuah variabel, pada pembahasan ini kita akan belajar meyimpan banyak data dalam satu variabel.
+
+Macam-macam struktur data di dalam python:
+1. List
+2. Tuple
+3. Dictionary
+4. Set

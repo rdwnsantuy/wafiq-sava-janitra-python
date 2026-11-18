@@ -1,0 +1,15 @@
+APA ITU ERROR?
+- error adalah kesalahan yang terjadi saat program berjalan
+- ketika error terjadi, program akan berhenti dan menampilkan pesan error
+
+
+1. SyntaxError adalah error yang terjadi ketika kamu menuliskan kode yang tidak lengkap
+2. NameError adalah error yang terjadi ketika kamu menggunakan variabel yang belum dibuat
+3. TypeError adalah error yang terjadi ketika ditemukan data dengan tipe data yang tidak cocok
+4. ValueError adalah error yang terjadi ketika kamu menggunakan inputan yang berupa tipe data berbeda
+5. IndexError adalah error yang terjadi ketika index yang dicari tidak ditemukan atau di luar jangkauan
+6. KeyError adalah error yang terjadi ketika kamu memanggil key yang tidak ada dalam struktur data
+7. ZeroDivisionError adalah error yang terjadi ketika ada angka yang dibagi dengan 0, karena di dalam python tidak diperbolehkan membagi angka dengan 0
+8. Try Except -> Try: kode yang akan dijalankan pertama kali, Except: kode yang akan dijalankan ketika ada error
+9. Try Except Else -> Try: -= sama =-, Except: -= sama =-, Else: kode yang akan dijalankan ketika tidak terjadi error
+10. Try Except Finally -> Try: -= sama =-, Except: -= sama =-, Finally: kode yang akan pasti dijalankan baik ada error maupun tidak

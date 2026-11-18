@@ -1,0 +1,9 @@
+# MEMBUAT FUNCTION
+- Function dibuat menggunakan kata kunci def
+- Lalu diikuti dengan nama function dan diakhiri dengan kurung buka & tutup ()
+- Umumnya, nama function menggunakan huruf kecil semua dan dibuat snake_case
+- isi function harus terdapat spasi atau indentasi, untuk menandakan bahwa itu adalah isi dari sebuah function
+- untuk menjalankan function, kita tinggal ketik nama functionnya
+
+
+menghitung_jam
